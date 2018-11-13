@@ -1,0 +1,28 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "id": 123,
+        "imageUrl":"https://img.gegejia.com/f7269f8094cb484cbb6965569d1ff8e9.jpg",
+        "name": "品牌",
+        "detail":{
+          "brand":"ASDasdDadD",
+          "price":"100"
+        }
+      },
+      {
+        "id": 456,
+        "imageUrl":"https://img.gegejia.com/f7269f8094cb484cbb6965569d1ff8e9.jpg",
+        "name": "品牌",
+        "detail":{
+          "brand":"PSDJPJA",
+          "price":"200"
+        }
+      }
+    ],
+    "total":80
+  },
+  "message":"error"
+}
+
