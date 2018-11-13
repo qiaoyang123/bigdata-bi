@@ -1,4 +1,4 @@
-# bigdata-bi-1
+# bigdata-bi
 
 > A Vue.js project
 
